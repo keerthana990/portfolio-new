@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.portfolio-navbar-logo {
+  border-style: solid;
+  border-color: #4b6cc1;
+  border-width: 4px;
+  font-weight: bold;
+}
+
+.portfolio-navbar {
+  background-color: #191a1d;
+  background-size: cover;
+  height: 100vh;
+}
+
+.portfolio-para {
+  color: #9aa5b1;
+  font-size: 25px;
+}
+
+span {
+  color: #4b6cc1;
+}
+
+.contact-me-link {
+  background-color: #4b6cc1;
+  color: white;
+  border-radius: 4px;
+  border-width: 0px;
+  padding: 8px;
+  font-weight: bold;
+}
+
+.portfolio-img {
+  height: 240px;
+  width: 250px;
+}
+
+.portfolio-head {
+  font-size: 35px;
+}
+
+.portfolio-aboutme-skill-main-head {
+  color: #cced00;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.portfolio-aboutme-skill {
+  background-color: #323f4b;
+  background-size: cover;
+}
+
+.portfolio-aboutme-skill-head {
+  color: white;
+  font-weight: bold;
+}
+
+.portfolio-aboutme-skill-para {
+  color: #9aa5b1;
+}
+
+.portfolio-aboutme-skill-bottom {
+  background-color: #1f2933;
+}
+
+.skills-container {
+  background-color: #323f4b;
+  text-align: center;
+  border-radius: 9px;
+}
+
+.skills-text {
+  color: white;
+  font-size: 22px;
+}
+
+.skills-img {
+  height: 130px;
+  width: 70px;
+}
+
+.portfolio-project-page-main-head {
+  color: #cced00;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.portfolio-project-page-head {
+  font-weight: bold;
+  color: white;
+}
+
+.portfolio-project-page {
+  background-color: #3e4c59;
+}
+
+.portfolio-project-page-text {
+  color: #9aa5b1;
+}
+
+.portfolio-project-deatail-section {
+  background-color: #323f4b;
+}
+
+.live-preview {
+  color: #cced00;
+}
+
+.portfolio-service-page-main-head {
+  color: #cced00;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.portfolio-service-page {
+  background-color: #52606d;
+}
+
+.portfolio-service-section-card {
+  background-color: #323f4b;
+  border-radius: 5px;
+}
+
+.portfolio-service-section-card-img {
+  height: 80px;
+  width: 80px;
+}
+
+.portfolio-service-section-card-text {
+  color: #9aa5b1;
+}
+
+.portfolio-footer-section {
+  background-color: #001c32;
+}
+
+.footer-container {
+  color: #9aa5b1;
+  font-size: 20px;
+}
+
+.icon {
+  color: #cced00;
+  font-size: 50px;
+}
+
+hr {
+  border-width: 1px;
+  border-color: #cced00;
+  border-top-style: solid;
+  width: 50vw;
+}
